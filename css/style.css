@@ -420,10 +420,11 @@ li{
 
 /*konzole Cover*/
 #konzolePage .cover{
-	background: url("../img/city.jpg");
+	background: url("../img/astroBot.jpg");
 	background-position: right;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 }
 #konzoleCoverTitle h2{
 	text-align: center;
